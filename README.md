@@ -4,7 +4,8 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com)
 
 **A data-driven exploration of crime patterns in Los Angeles.**  
-*Final Report:* [https://github.com/Vins094/Visual-Analytics/blob/main/LA%20crimes%20analysis.pdf](#) *(replace with link to your uploaded PDF)*  
+
+*Final Report:* [**Download PDF**](https://github.com/Vins094/Visual-Analytics/blob/main/LA%20crimes%20analysis.pdf)
 
 ---
 
@@ -17,7 +18,7 @@ Analyzed **561,000+ crime records** from the LAPD to uncover actionable insights
 ---
 
 ## 🔑 Key Deliverables  
-1. **[Final Report PDF](#)**: Comprehensive analysis of methodologies (K-Means clustering, MDS), visualizations, and recommendations.  
+1. **Report PDF**: Comprehensive analysis of methodologies (K-Means clustering, MDS), visualizations, and recommendations.  
 2. **Tableau Dashboards**: Interactive maps and heatmaps (screenshots included in report).  
 3. **Methodology Summary**: Data cleaning (duplicate removal, feature engineering) and clustering workflows.  
 
