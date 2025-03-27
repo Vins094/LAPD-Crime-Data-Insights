@@ -4,7 +4,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com)
 
 **A data-driven exploration of crime patterns in Los Angeles.**  
-*Final Report:* [**Download PDF**](#) *(replace with link to your uploaded PDF)*  
+*Final Report:* [https://github.com/Vins094/Visual-Analytics/blob/main/LA%20crimes%20analysis.pdf](#) *(replace with link to your uploaded PDF)*  
 
 ---
 
